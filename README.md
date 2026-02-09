@@ -87,8 +87,7 @@ Technology-driven farm management for sustainable agriculture.
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [seyhachim@gmail.com](mailto:seyhachim@gmail.com)
 
 I’m open to freelance opportunities and collaboration.
 
