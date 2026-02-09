@@ -7,9 +7,10 @@ I build real-world web applications for businesses and automation systems.
 
 ## Main Projects
 
-- KTV POS System (Laravel) – deployed on VPS
+- KTV POS System (Laravel) – deployed on VPS (Digital Ocean)
+- Agagen Project
+- Lifelog LMS
 - Telegram Mini App (Next.js)
-- Farm Management System (AgroTech)
 
 Tech Stack
 Laravel • PHP • MySQL • Next.js • React • Linux • NGINX • Git
