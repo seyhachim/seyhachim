@@ -1,5 +1,6 @@
 # Hi, I'm Seyha 👋
 
+## ⚡ About Me
 Full-Stack Developer | Laravel | Next.js | AgroTech Enthusiast
 
 I build real-world web applications for businesses and automation systems.
@@ -21,8 +22,4 @@ Laravel • PHP • MySQL • Next.js • React • Linux • NGINX • Git
 
 I’m open to freelance opportunities and collaboration.
 
----
 
-## ⚡ About Me
-
-Building practical systems that solve real problems.
